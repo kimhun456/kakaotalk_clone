@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">kakaotalk_clone</string>
+    <string name="send">Send</string>
 </resources>
